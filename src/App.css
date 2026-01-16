@@ -1,0 +1,188 @@
+.w-20 {
+    width: 20%;
+}
+
+.w-30 {
+    width: 30%;
+}
+
+.logo-text {
+    width: 100px;
+}
+
+.bi {
+    font-size: 1.2rem;
+    color: #262626;
+    margin-left: 10px;
+}
+
+.sidebar {
+    width: 20%;
+    height: 100vh;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.story {
+    height: 70px;
+}
+
+.dp {
+    width: 35px;
+    height: 35px;
+
+}
+
+.post_image {
+    width: 95%;
+    height: 95%;
+    padding-left: 4%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.res-com {
+
+    margin-left: 20px;
+
+}
+
+.res {
+    font-size: 1.5rem;
+    color: #262626;
+}
+
+.follow {
+    margin-bottom: 5px;
+    background-color: #3d4dff;
+    border: 1px solid;
+    border-radius: 4px;
+    color: #fff;
+    width: 100px;
+    margin-left: 30px;
+
+    &:hover {
+        background-color: #6f75ec;
+        color: #fff;
+
+    }
+
+    &:active {
+        transform: scale(0.95);
+        transition: 0.2em ease-in-out;
+    }
+}
+
+.switch {
+    margin-top: 8px;
+}
+
+/* .sugg{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 1px;
+    padding: 20px;
+      z-index: 1000;
+    
+} */
+.switch {
+    margin-left: 180px;
+}
+
+.switch:hover {
+    cursor: pointer;
+    color: #3d4dff;
+}
+
+.photo {
+    margin-left: 7px;
+}
+
+.pro {
+    padding: 5px;
+    margin-left: 20px;
+    width: 390px;
+    border-radius: 30px;
+    background-color: #edebeb;
+}
+
+.follow {
+    margin-left: 35px;
+}
+
+.suggestion-list {
+    position: relative;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    height: 100%;
+}
+
+.sugname {
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+}
+
+.stu {
+    margin-right: 80px;
+}
+
+.follows {
+    position: absolute;
+    margin-left: 243px;
+
+}
+
+.user {
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    left: 70%;
+}
+
+.suggestion-list {
+
+    max-height: 700px;
+    width: 500px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    position: fixed;
+    top: 90px;
+
+}
+
+.story-item {
+    margin: 3px;
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(45deg, #ffee00, #ff0000, violet);
+    border-radius: 50%;
+}
+
+.story-image {
+    width: 64px;
+    height: 64px;
+    margin: 3px;
+
+}
+.post-body{
+    margin-top: 30px;
+}
+.profile-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

@@ -1,0 +1,871 @@
+{
+  "post": [
+    {
+      "id": "1",
+      "username": "travelwithme",
+      "profilePic": "https://i.pravatar.cc/150?img=11",
+      "image": "https://picsum.photos/id/1015/600/400",
+      "caption": "Exploring the golden sands 🌞 #travel #beachlife",
+      "likes": 123,
+      "time": "2h",
+      "comments": [
+        {
+          "username": "sunnydays",
+          "comment": "This looks amazing!"
+        },
+        {
+          "username": "beachlover",
+          "comment": "Wish I was there!"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "username": "foodie_jane",
+      "profilePic": "https://i.pravatar.cc/150?img=12",
+      "image": "https://picsum.photos/id/292/600/400",
+      "caption": "Best sushi in town 🍣🍱",
+      "likes": 98,
+      "time": "4h",
+      "comments": [
+        {
+          "username": "chef_raj",
+          "comment": "Looks delicious!"
+        },
+        {
+          "username": "yumlover",
+          "comment": "Where is this place?"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "username": "hikinghero",
+      "profilePic": "https://i.pravatar.cc/150?img=13",
+      "image": "https://picsum.photos/id/1002/600/400",
+      "caption": "Reached the summit! 🏔️",
+      "likes": 210,
+      "time": "1d",
+      "comments": [
+        {
+          "username": "adventuregirl",
+          "comment": "What a view!"
+        },
+        {
+          "username": "climbmaster",
+          "comment": "Respect!"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "username": "petlover",
+      "profilePic": "https://i.pravatar.cc/150?img=14",
+      "image": "https://picsum.photos/id/237/600/400",
+      "caption": "Meet my new buddy 🐶 #puppylove",
+      "likes": 320,
+      "time": "6h",
+      "comments": [
+        {
+          "username": "dogmom",
+          "comment": "So cute!!"
+        },
+        {
+          "username": "pawlife",
+          "comment": "What breed is this?"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "username": "fitness_freak",
+      "profilePic": "https://i.pravatar.cc/150?img=15",
+      "image": "https://picsum.photos/id/1041/600/400",
+      "caption": "Leg day grind 💪🔥",
+      "likes": 140,
+      "time": "30m",
+      "comments": [
+        {
+          "username": "ironman",
+          "comment": "Beast mode on!"
+        },
+        {
+          "username": "gohard",
+          "comment": "Let's gooo!"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "username": "artist_life",
+      "profilePic": "https://i.pravatar.cc/150?img=16",
+      "image": "https://picsum.photos/id/1025/600/400",
+      "caption": "New canvas, new story 🎨",
+      "likes": 89,
+      "time": "2h",
+      "comments": [
+        {
+          "username": "colorcraze",
+          "comment": "Love the vibe!"
+        },
+        {
+          "username": "artfan",
+          "comment": "Beautiful strokes!"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "username": "bookworm",
+      "profilePic": "https://i.pravatar.cc/150?img=17",
+      "image": "https://picsum.photos/id/1024/600/400",
+      "caption": "Lost in stories 📚",
+      "likes": 112,
+      "time": "5h",
+      "comments": [
+        {
+          "username": "readersclub",
+          "comment": "What's the title?"
+        },
+        {
+          "username": "pagebyPage",
+          "comment": "I’ve read that too!"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "username": "fashion_addict",
+      "profilePic": "https://i.pravatar.cc/150?img=18",
+      "image": "https://picsum.photos/id/1062/600/400",
+      "caption": "OOTD 💃 #fashionista",
+      "likes": 230,
+      "time": "3h",
+      "comments": [
+        {
+          "username": "styleguru",
+          "comment": "Slayyyy 🔥"
+        },
+        {
+          "username": "trendspot",
+          "comment": "Love your fit!"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "username": "techgeek",
+      "profilePic": "https://i.pravatar.cc/150?img=19",
+      "image": "https://picsum.photos/id/180/600/400",
+      "caption": "New gadget alert! 🔥",
+      "likes": 155,
+      "time": "10m",
+      "comments": [
+        {
+          "username": "gadgethub",
+          "comment": "Is that the new iPhone?"
+        },
+        {
+          "username": "nerdzone",
+          "comment": "Specs?"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "username": "nature_lover",
+      "profilePic": "https://i.pravatar.cc/150?img=20",
+      "image": "https://picsum.photos/id/1020/600/400",
+      "caption": "Green vibes 🌲",
+      "likes": 178,
+      "time": "8h",
+      "comments": [
+        {
+          "username": "earthsoul",
+          "comment": "Peaceful 🌿"
+        },
+        {
+          "username": "naturevibes",
+          "comment": "Love this place!"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "username": "cityscape",
+      "profilePic": "https://i.pravatar.cc/150?img=21",
+      "image": "https://picsum.photos/id/1011/600/400",
+      "caption": "Urban magic 🏙️",
+      "likes": 87,
+      "time": "4h",
+      "comments": [
+        {
+          "username": "skyhigh",
+          "comment": "Such clean shot!"
+        },
+        {
+          "username": "urbansoul",
+          "comment": "City life 💯"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "username": "gamerzone",
+      "profilePic": "https://i.pravatar.cc/150?img=22",
+      "image": "https://picsum.photos/id/1039/600/400",
+      "caption": "Victory Royale! 🎮",
+      "likes": 195,
+      "time": "2d",
+      "comments": [
+        {
+          "username": "proplayer",
+          "comment": "Add me next game!"
+        },
+        {
+          "username": "fpsking",
+          "comment": "Nice kill streak 🔥"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "username": "skaterboy",
+      "profilePic": "https://i.pravatar.cc/150?img=23",
+      "image": "https://picsum.photos/id/1067/600/400",
+      "caption": "Skate and chill 🛹",
+      "likes": 76,
+      "time": "9h",
+      "comments": [
+        {
+          "username": "skatevibe",
+          "comment": "That trick was fire!"
+        },
+        {
+          "username": "olliemaster",
+          "comment": "Smooth!"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "username": "bakerqueen",
+      "profilePic": "https://i.pravatar.cc/150?img=24",
+      "image": "https://picsum.photos/id/1080/600/400",
+      "caption": "Fresh out the oven 🍰",
+      "likes": 134,
+      "time": "45m",
+      "comments": [
+        {
+          "username": "sweettooth",
+          "comment": "Send me a slice!"
+        },
+        {
+          "username": "chefmode",
+          "comment": "Recipe please!"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "username": "sunsetshots",
+      "profilePic": "https://i.pravatar.cc/150?img=25",
+      "image": "https://picsum.photos/id/1056/600/400",
+      "caption": "Chasing sunsets 🌇",
+      "likes": 204,
+      "time": "7h",
+      "comments": [
+        {
+          "username": "eveningbliss",
+          "comment": "What a shot!"
+        },
+        {
+          "username": "skywatcher",
+          "comment": "Wallpaper worthy!"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "username": "musicvibes",
+      "profilePic": "https://i.pravatar.cc/150?img=26",
+      "image": "https://picsum.photos/id/1068/600/400",
+      "caption": "Mood: Lo-fi beats 🎧",
+      "likes": 121,
+      "time": "3h",
+      "comments": [
+        {
+          "username": "audiophile",
+          "comment": "Where’s this playlist?"
+        },
+        {
+          "username": "vibez",
+          "comment": "Lo-fi is life"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "username": "coding_daily",
+      "profilePic": "https://i.pravatar.cc/150?img=27",
+      "image": "https://picsum.photos/id/1073/600/400",
+      "caption": "Another day, another bug 🐞",
+      "likes": 166,
+      "time": "6h",
+      "comments": [
+        {
+          "username": "devlife",
+          "comment": "Relatable 😂"
+        },
+        {
+          "username": "stackwizard",
+          "comment": "Console.log everything!"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "username": "bike_diaries",
+      "profilePic": "https://i.pravatar.cc/150?img=28",
+      "image": "https://picsum.photos/id/111/600/400",
+      "caption": "Ride to live 🏍️",
+      "likes": 200,
+      "time": "12h",
+      "comments": [
+        {
+          "username": "bikelover",
+          "comment": "Let’s ride!"
+        },
+        {
+          "username": "vroomvroom",
+          "comment": "Which bike?"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "username": "plantmom",
+      "profilePic": "https://i.pravatar.cc/150?img=29",
+      "image": "https://picsum.photos/id/103/600/400",
+      "caption": "My green babies 🌿",
+      "likes": 102,
+      "time": "1d",
+      "comments": [
+        {
+          "username": "leaflover",
+          "comment": "So healthy!"
+        },
+        {
+          "username": "plantcraze",
+          "comment": "What's the name of the plant?"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "username": "catgram",
+      "profilePic": "https://i.pravatar.cc/150?img=30",
+      "image": "https://picsum.photos/id/219/600/400",
+      "caption": "Lazy afternoon 😼",
+      "likes": 187,
+      "time": "2h",
+      "comments": [
+        {
+          "username": "meowmeow",
+          "comment": "So fluffy!"
+        },
+        {
+          "username": "catlady",
+          "comment": "I want one 😻"
+        }
+      ]
+    }
+  ],
+  "profile": {
+    "id": 21,
+    "username": "babu b",
+    "profilePic": "https://i.pravatar.cc/150?img=30",
+    "bio": "Cat lover 😻 | Sharing my feline adventures",
+    "followers": 950,
+    "following": 14,
+    "posts": 4
+  },
+  "suggestion": [
+    {
+      "id": "22",
+      "username": "bike_diaries",
+      "profilePic": "https://i.pravatar.cc/150?img=28",
+      "bio": "Living life one ride at a time 🏍️",
+      "followers": 1200,
+      "following": 300,
+      "posts": 50
+    },
+    {
+      "id": "23",
+      "username": "plantmom",
+      "profilePic": "https://i.pravatar.cc/150?img=29",
+      "bio": "Plant enthusiast 🌿 | Sharing my green journey",
+      "followers": 800,
+      "following": 150,
+      "posts": 30
+    },
+    {
+      "id": "24",
+      "username": "catgram",
+      "profilePic": "https://i.pravatar.cc/150?img=30",
+      "bio": "Cat lover 😻 | Sharing my feline adventures",
+      "followers": 950,
+      "following": 200,
+      "posts": 40
+    },
+    {
+      "id": "25",
+      "username": "cityscape",
+      "profilePic": "https://i.pravatar.cc/150?img=21",
+      "image": "https://picsum.photos/id/1011/600/400",
+      "caption": "Urban magic 🏙️",
+      "likes": 87,
+      "time": "4h",
+      "comments": [
+        {
+          "username": "skyhigh",
+          "comment": "Such clean shot!"
+        },
+        {
+          "username": "urbansoul",
+          "comment": "City life 💯"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "username": "gamerzone",
+      "profilePic": "https://i.pravatar.cc/150?img=22",
+      "image": "https://picsum.photos/id/1039/600/400",
+      "caption": "Victory Royale! 🎮",
+      "likes": 195,
+      "time": "2d",
+      "comments": [
+        {
+          "username": "proplayer",
+          "comment": "Add me next game!"
+        },
+        {
+          "username": "fpsking",
+          "comment": "Nice kill streak 🔥"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "username": "skaterboy",
+      "profilePic": "https://i.pravatar.cc/150?img=23",
+      "image": "https://picsum.photos/id/1067/600/400",
+      "caption": "Skate and chill 🛹",
+      "likes": 76,
+      "time": "9h",
+      "comments": [
+        {
+          "username": "skatevibe",
+          "comment": "That trick was fire!"
+        },
+        {
+          "username": "olliemaster",
+          "comment": "Smooth!"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "username": "bakerqueen",
+      "profilePic": "https://i.pravatar.cc/150?img=24",
+      "image": "https://picsum.photos/id/1080/600/400",
+      "caption": "Fresh out the oven 🍰",
+      "likes": 134,
+      "time": "45m",
+      "comments": [
+        {
+          "username": "sweettooth",
+          "comment": "Send me a slice!"
+        },
+        {
+          "username": "chefmode",
+          "comment": "Recipe please!"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "username": "sunsetshots",
+      "profilePic": "https://i.pravatar.cc/150?img=25",
+      "image": "https://picsum.photos/id/1056/600/400",
+      "caption": "Chasing sunsets 🌇",
+      "likes": 204,
+      "time": "7h",
+      "comments": [
+        {
+          "username": "eveningbliss",
+          "comment": "What a shot!"
+        },
+        {
+          "username": "skywatcher",
+          "comment": "Wallpaper worthy!"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "username": "musicvibes",
+      "profilePic": "https://i.pravatar.cc/150?img=26",
+      "image": "https://picsum.photos/id/1068/600/400",
+      "caption": "Mood: Lo-fi beats 🎧",
+      "likes": 121,
+      "time": "3h",
+      "comments": [
+        {
+          "username": "audiophile",
+          "comment": "Where’s this playlist?"
+        },
+        {
+          "username": "vibez",
+          "comment": "Lo-fi is life"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "username": "coding_daily",
+      "profilePic": "https://i.pravatar.cc/150?img=27",
+      "image": "https://picsum.photos/id/1073/600/400",
+      "caption": "Another day, another bug 🐞",
+      "likes": 166,
+      "time": "6h",
+      "comments": [
+        {
+          "username": "devlife",
+          "comment": "Relatable 😂"
+        },
+        {
+          "username": "stackwizard",
+          "comment": "Console.log everything!"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "username": "bike_diaries",
+      "profilePic": "https://i.pravatar.cc/150?img=28",
+      "image": "https://picsum.photos/id/111/600/400",
+      "caption": "Ride to live 🏍️",
+      "likes": 200,
+      "time": "12h",
+      "comments": [
+        {
+          "username": "bikelover",
+          "comment": "Let’s ride!"
+        },
+        {
+          "username": "vroomvroom",
+          "comment": "Which bike?"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "username": "plantmom",
+      "profilePic": "https://i.pravatar.cc/150?img=29",
+      "image": "https://picsum.photos/id/103/600/400",
+      "caption": "My green babies 🌿",
+      "likes": 102,
+      "time": "1d",
+      "comments": [
+        {
+          "username": "leaflover",
+          "comment": "So healthy!"
+        },
+        {
+          "username": "plantcraze",
+          "comment": "What's the name of the plant?"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "username": "catgram",
+      "profilePic": "https://i.pravatar.cc/150?img=30",
+      "image": "https://picsum.photos/id/219/600/400",
+      "caption": "Lazy afternoon 😼",
+      "likes": 187,
+      "time": "2h",
+      "comments": [
+        {
+          "username": "meowmeow",
+          "comment": "So fluffy!"
+        },
+        {
+          "username": "catlady",
+          "comment": "I want one 😻"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "username": "cityscape",
+      "profilePic": "https://i.pravatar.cc/150?img=21",
+      "image": "https://picsum.photos/id/1011/600/400",
+      "caption": "Urban magic 🏙️",
+      "likes": 87,
+      "time": "4h",
+      "comments": [
+        {
+          "username": "skyhigh",
+          "comment": "Such clean shot!"
+        },
+        {
+          "username": "urbansoul",
+          "comment": "City life 💯"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "username": "gamerzone",
+      "profilePic": "https://i.pravatar.cc/150?img=22",
+      "image": "https://picsum.photos/id/1039/600/400",
+      "caption": "Victory Royale! 🎮",
+      "likes": 195,
+      "time": "2d",
+      "comments": [
+        {
+          "username": "proplayer",
+          "comment": "Add me next game!"
+        },
+        {
+          "username": "fpsking",
+          "comment": "Nice kill streak 🔥"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "username": "skaterboy",
+      "profilePic": "https://i.pravatar.cc/150?img=23",
+      "image": "https://picsum.photos/id/1067/600/400",
+      "caption": "Skate and chill 🛹",
+      "likes": 76,
+      "time": "9h",
+      "comments": [
+        {
+          "username": "skatevibe",
+          "comment": "That trick was fire!"
+        },
+        {
+          "username": "olliemaster",
+          "comment": "Smooth!"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "username": "bakerqueen",
+      "profilePic": "https://i.pravatar.cc/150?img=24",
+      "image": "https://picsum.photos/id/1080/600/400",
+      "caption": "Fresh out the oven 🍰",
+      "likes": 134,
+      "time": "45m",
+      "comments": [
+        {
+          "username": "sweettooth",
+          "comment": "Send me a slice!"
+        },
+        {
+          "username": "chefmode",
+          "comment": "Recipe please!"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "username": "sunsetshots",
+      "profilePic": "https://i.pravatar.cc/150?img=25",
+      "image": "https://picsum.photos/id/1056/600/400",
+      "caption": "Chasing sunsets 🌇",
+      "likes": 204,
+      "time": "7h",
+      "comments": [
+        {
+          "username": "eveningbliss",
+          "comment": "What a shot!"
+        },
+        {
+          "username": "skywatcher",
+          "comment": "Wallpaper worthy!"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "username": "musicvibes",
+      "profilePic": "https://i.pravatar.cc/150?img=26",
+      "image": "https://picsum.photos/id/1068/600/400",
+      "caption": "Mood: Lo-fi beats 🎧",
+      "likes": 121,
+      "time": "3h",
+      "comments": [
+        {
+          "username": "audiophile",
+          "comment": "Where’s this playlist?"
+        },
+        {
+          "username": "vibez",
+          "comment": "Lo-fi is life"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "username": "coding_daily",
+      "profilePic": "https://i.pravatar.cc/150?img=27",
+      "image": "https://picsum.photos/id/1073/600/400",
+      "caption": "Another day, another bug 🐞",
+      "likes": 166,
+      "time": "6h",
+      "comments": [
+        {
+          "username": "devlife",
+          "comment": "Relatable 😂"
+        },
+        {
+          "username": "stackwizard",
+          "comment": "Console.log everything!"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "username": "bike_diaries",
+      "profilePic": "https://i.pravatar.cc/150?img=28",
+      "image": "https://picsum.photos/id/111/600/400",
+      "caption": "Ride to live 🏍️",
+      "likes": 200,
+      "time": "12h",
+      "comments": [
+        {
+          "username": "bikelover",
+          "comment": "Let’s ride!"
+        },
+        {
+          "username": "vroomvroom",
+          "comment": "Which bike?"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "username": "plantmom",
+      "profilePic": "https://i.pravatar.cc/150?img=29",
+      "image": "https://picsum.photos/id/103/600/400",
+      "caption": "My green babies 🌿",
+      "likes": 102,
+      "time": "1d",
+      "comments": [
+        {
+          "username": "leaflover",
+          "comment": "So healthy!"
+        },
+        {
+          "username": "plantcraze",
+          "comment": "What's the name of the plant?"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "username": "catgram",
+      "profilePic": "https://i.pravatar.cc/150?img=30",
+      "image": "https://picsum.photos/id/219/600/400",
+      "caption": "Lazy afternoon 😼",
+      "likes": 187,
+      "time": "2h",
+      "comments": [
+        {
+          "username": "meowmeow",
+          "comment": "So fluffy!"
+        },
+        {
+          "username": "catlady",
+          "comment": "I want one 😻"
+        }
+      ]
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "username": "skaterboy",
+      "profilePic": "https://i.pravatar.cc/150?img=23",
+      "image": "https://picsum.photos/id/219/600/400",
+      "caption": "Skate and chill 🛹",
+      "likes": 76,
+      "time": "9h"
+    },
+    {
+      "id": "2",
+      "username": "bakerqueen",
+      "profilePic": "https://i.pravatar.cc/150?img=24",
+      "image": "https://picsum.photos/id/1073/600/400",
+      "caption": "Fresh out the oven 🍰",
+      "likes": 134,
+      "time": "45m"
+    },
+    {
+      "id": "3",
+      "username": "sunsetshots",
+      "profilePic": "https://i.pravatar.cc/150?img=25",
+      "image": "https://picsum.photos/id/1011/600/400",
+      "caption": "Chasing sunsets 🌇",
+      "likes": 204,
+      "time": "7h"
+    },
+    {
+      "id": "4",
+      "username": "musicvibes",
+      "profilePic": "https://i.pravatar.cc/150?img=26",
+      "image": "https://picsum.photos/id/1068/600/400",
+      "caption": "Mood: Lo-fi beats 🎧",
+      "likes": 121,
+      "time": "3h"
+    },
+    {
+      "id": "5",
+      "username": "coding_daily",
+      "profilePic": "https://i.pravatar.cc/150?img=27",
+      "image": "https://picsum.photos/id/1073/600/400",
+      "caption": "Another day, another bug 🐞",
+      "likes": 166,
+      "time": "6h"
+    }
+  ],
+  "Followers": [
+    {
+      "id": "25",
+      "username": "cityscape",
+      "profilePic": "https://i.pravatar.cc/150?img=21"
+    },
+    {
+      "id": "22",
+      "username": "bike_diaries",
+      "profilePic": "https://i.pravatar.cc/150?img=28"
+    },
+    {
+      "id": "23",
+      "username": "plantmom",
+      "profilePic": "https://i.pravatar.cc/150?img=29"
+    },
+    {
+      "id": "24",
+      "username": "catgram",
+      "profilePic": "https://i.pravatar.cc/150?img=30"
+    }
+  ]
+}
